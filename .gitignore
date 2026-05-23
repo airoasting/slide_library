@@ -6,6 +6,13 @@
 .vscode/
 .idea/
 *.swp
+.claude/
 
 # Logs
 *.log
+
+# Node
+node_modules/
+
+# Local working state
+.superpowers/
