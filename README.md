@@ -438,6 +438,51 @@ Clone the slide library repo and follow the instructions in AGENTS.md to build m
 
 ---
 
+## 업데이트 내역
+
+### 2026-05-23
+- `node_modules`, `.superpowers`, `.claude`, 잔여 `.DS_Store`를 git 트랙에서 제거하고 `.gitignore`를 정리했습니다.
+
+### 2026-05-19
+- retro-magazine statement 인용구를 2줄로 정리하고 폰트를 Pretendard로 통일했습니다.
+
+### 2026-05-18
+- 모바일 추천 섹션을 가로 스크롤 카루셀로 전환했습니다.
+- 인덱스 페이지에서 깨진 링크를 정리했습니다. 유령 슬러그를 제거하고 누락된 템플릿을 등재했으며 soft-classic 스크린샷을 채웠습니다.
+
+### 2026-05-16
+- warm-cream 템플릿을 리스본에서 잠실 월드타워로 옮기고 한국어를 v4까지 다듬었습니다.
+- warm-cream 브랜드를 AI ROASTING으로 통일하고 일정을 2026/2027로 옮겼습니다. 가격은 25만원, 좌석은 20석으로 정리했습니다.
+- "에디션"을 "모임"으로 통일하고, 인용/매니페스토/클로징 카피를 실제 서울 화법으로 윤문했습니다.
+- tri-color-magazine에 호스트 배경색과 슬라이드 색을 동기화하고 페이드 트랜지션을 추가했습니다.
+- `.gitignore`를 추가하고 트랙되던 `.DS_Store`를 제거했습니다.
+
+### 2026-05-15
+- 모든 프롬프트의 기본 산출 형식을 HTML에서 PPTX로 변경했습니다.
+- slide-clone 스킬을 추가하고 README를 업데이트했습니다. 기존 슬라이드를 분석해 시스템 프롬프트를 추출할 수 있습니다.
+- 인덱스 페이지를 레트로 카세트 톤으로 리디자인하고 3색 매거진 카피·레이아웃을 정리했습니다.
+
+### 2026-05-14
+- 사이트 제목을 `AI ROASTING · Slide Library`로 변경했습니다.
+
+### 2026-05-11
+- 커스텀 마우스 커서를 제거하고 기본 커서로 복원했습니다.
+
+### 2026-05-10
+- pin-note 72시간 락인 덱을 완성하고 전체 템플릿에 `prompt.md`를 추가했습니다.
+- 히어로 영역을 3-up coverflow 캐러셀로 재설계했습니다.
+- README에 라이브 갤러리 링크를 추가하고 가이드 팝업에서 Inspired by 항목을 제거했습니다.
+- README 전체를 입니다체로 다듬고 주술 구조를 정리했습니다.
+
+### 2026-05-09 (최초 공개)
+- 슬라이드 라이브러리 초기 버전 공개. 템플릿, 스크린샷, 런타임 셋업을 포함합니다.
+- 모바일 테마 토글 라벨이 현재 상태를 반영하도록 수정했습니다.
+- 소셜 공유용 OG 이미지와 메타 태그를 추가했습니다.
+- Get started 프롬프트 문구를 `beautiful`에서 `professional`로 다듬었습니다.
+- 카드 스킴 라벨과 히어로 카피를 정리했습니다.
+
+---
+
 > [zarazhangrui/beautiful-html-templates](https://github.com/zarazhangrui/beautiful-html-templates)에서 영감을 얻었습니다.
 
 ## License
