@@ -19,3 +19,6 @@ node_modules/
 
 # Skill-creator test scaffolding (snapshots, eval runs)
 slide-clone-workspace/
+
+# Local process docs (off GitHub)
+_local/

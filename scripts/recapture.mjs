@@ -12,7 +12,7 @@ import { fileURLToPath, pathToFileURL } from 'node:url';
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const REPO_ROOT = join(__dirname, '..');
 const TEMPLATES_DIR = join(REPO_ROOT, 'templates');
-const SHOTS_DIR = join(REPO_ROOT, 'screenshots');
+const SHOTS_DIR = join(REPO_ROOT, 'assets', 'screenshots');
 
 const MANIFEST = [
   { slug: 'navy-gold',     shots: [1, 8, 18] },

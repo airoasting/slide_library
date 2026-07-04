@@ -2847,7 +2847,7 @@
       const code = `SC-${String(i + 1).padStart(2, '0')}`;
       return `<div class="featured-item" data-idx="${idx}" role="button" tabindex="0" aria-label="${t.name} 자세히 보기">
         <div class="featured-item-frame">
-          <img loading="lazy" src="./screenshots/${t.slug}-${shot}.${ext}" alt="${t.name}" />
+          <img loading="lazy" src="./assets/screenshots/${t.slug}-${shot}.${ext}" alt="${t.name}" />
         </div>
         <div class="featured-item-body">
           <p class="featured-item-code">${code}</p>
@@ -2888,7 +2888,7 @@
       const shots = (t.shots && t.shots.length) ? t.shots : [1];
       const shot = shots[Math.floor(Math.random() * shots.length)];
       return `<div class="hero-card" data-idx="${i}" role="button" tabindex="-1" aria-label="${t.name} 템플릿 자세히 보기">
-        <img loading="${i < 6 ? 'eager' : 'lazy'}" src="./screenshots/${t.slug}-${shot}.${ext}" alt="${t.name}" />
+        <img loading="${i < 6 ? 'eager' : 'lazy'}" src="./assets/screenshots/${t.slug}-${shot}.${ext}" alt="${t.name}" />
         <div class="hero-card-badge" aria-hidden="true">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M7 17 17 7M9 7h8v8"/></svg>
         </div>
@@ -3090,7 +3090,7 @@
     const num = String(i + 1).padStart(2, '0');
     const ext = t.ext || 'png';
     const imgs = t.shots.map((s, idx) => {
-      return `<img class="${idx === 0 ? 'is-active' : ''}" loading="lazy" src="./screenshots/${t.slug}-${s}.${ext}" alt="${t.name} 슬라이드 ${s}" />`;
+      return `<img class="${idx === 0 ? 'is-active' : ''}" loading="lazy" src="./assets/screenshots/${t.slug}-${s}.${ext}" alt="${t.name} 슬라이드 ${s}" />`;
     }).join('');
     const pager = t.shots.map((_, idx) => `<span class="${idx === 0 ? 'is-active' : ''}"></span>`).join('');
     const moodChips = (t.mood || []).slice(0, 3).map(m => `<span class="card-chip">${m}</span>`).join('');
@@ -3213,7 +3213,7 @@
     const ext = t.ext || 'png';
     const shotsHtml = t.shots.map(s => `
       <div class="modal-shot">
-        <img loading="lazy" src="./screenshots/${t.slug}-${s}.${ext}" alt="${t.name} 슬라이드 ${s}" />
+        <img loading="lazy" src="./assets/screenshots/${t.slug}-${s}.${ext}" alt="${t.name} 슬라이드 ${s}" />
         <div class="modal-shot-caption"><span>슬라이드 ${String(s).padStart(2, '0')}</span><span>${t.slug}-${s}.${ext}</span></div>
       </div>
     `).join('');
