@@ -38,7 +38,7 @@
 코딩 에이전트(예: Claude Code)를 쓰신다면, 저장소를 통째로 내려받아 쓰도록 이렇게 한 줄로 요청하셔도 됩니다.
 
 ```
-Clone https://github.com/airoasting/slide_library and follow the instructions in AGENTS.md to build me a beautiful HTML slide deck.
+https://github.com/airoasting/slide_library 저장소를 클론하고, AGENTS.md의 안내에 따라 멋진 HTML 슬라이드 덱을 만들어줘.
 ```
 
 ## 이미 있는 자료의 디자인을 그대로 복제하기
