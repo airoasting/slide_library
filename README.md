@@ -1,12 +1,12 @@
 # 슬라이드 라이브러리 (Slide Library)
 
 <p align="center">
-  <a href="https://airoasting.github.io/slide_library/">
+  <a href="https://airoasting-slide.vercel.app/">
     <img src="./assets/og-image.png" alt="슬라이드 라이브러리 — AI에게 한 문장만 던지면 주제에 맞는 템플릿을 골라 슬라이드를 만들어 줍니다. 35개 템플릿, 6개 카테고리." width="100%" />
   </a>
 </p>
 
-🔗 **갤러리 바로 보기**: <https://airoasting.github.io/slide_library/>
+🔗 **갤러리 바로 보기**: <https://airoasting-slide.vercel.app/>
 
 슬라이드 라이브러리는 컨설팅 펌 수준의 발표 자료를 디자이너 없이 AI로 만들 수 있게 돕는 슬라이드 디자인 모음입니다. 맥킨지·베인·BCG 풍의 전략 보고 스타일부터 매거진, 브랜드, 레트로 무드까지 35가지 디자인을 갖췄습니다. 원하는 스타일을 고르고 담을 내용을 알려 주시면, AI가 그 디자인 그대로 새 슬라이드를 완성합니다.
 
