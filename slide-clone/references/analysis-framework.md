@@ -1,5 +1,42 @@
 # 분석 기준 상세 가이드
 
+아래 색 이름(`--forest-dark` 등)과 값은 **한 IR 덱에서 나온 예시**다. 분석 대상 덱의 실제 값으로 대체한다.
+
+## 2.0 추출 방법론 (정확한 값을 얻는 법)
+
+"추측하지 말고 정확히"라는 요구는 방법이 있어야 지킬 수 있다. PDF를 눈으로만 보면 색은 근사치가 된다. 다음 순서로 실제 값을 확보한다.
+
+**색상**
+- PDF 페이지를 이미지로 렌더링한 뒤 대표 영역(표지 배경, 강조 배경, 본문 텍스트, 테두리)의 픽셀에서 hex를 읽는다. macOS라면 다음이 빠르다.
+  ```bash
+  # PDF 첫 5페이지를 PNG로 렌더 (해상도 150)
+  sips -s format png --resampleWidth 1600 "deck.pdf" --out /tmp/deck-p1.png 2>/dev/null || \
+  qlmanage -t -s 1600 -o /tmp "deck.pdf"
+  # 또는 pdftoppm 사용 (있으면): pdftoppm -png -r 150 -f 1 -l 5 "deck.pdf" /tmp/deck
+  ```
+  렌더된 PNG를 Read로 열어 색을 확인한다. 픽셀 단위 hex가 필요하면 Python(Pillow)으로 샘플링한다.
+  ```python
+  from PIL import Image
+  im = Image.open('/tmp/deck-p1.png').convert('RGB')
+  print('#%02X%02X%02X' % im.getpixel((x, y)))  # 대표 좌표에서
+  ```
+- 정확한 hex를 끝내 확정 못 하면 근사값 옆에 `(근사)`를 붙여 다음 사람이 검증하게 한다. 지어낸 정밀값보다 정직한 근사가 낫다.
+
+**폰트**
+- PDF에 임베드된 폰트 목록을 직접 조회한다.
+  ```bash
+  pdffonts "deck.pdf"   # 임베드 폰트명·타입 출력
+  ```
+- 목록의 폰트명을 웹/시스템 폰트 스택으로 매핑한다. 한글 폰트(예: Pretendard, Apple SD Gothic Neo)와 라틴/숫자 폰트를 구분한다.
+
+**레이아웃·여백**
+- 렌더 이미지 위에서 요소 간 간격을 재 그리드 스케일(8의 배수 등)과 패딩 단위를 추정한다. 절대 px를 못 잡으면 슬라이드 폭 대비 %로 기록한다.
+
+**PPTX 입력**
+- `.pptx`는 zip이다. 풀어서 `ppt/slideMasters`, `ppt/theme/theme1.xml`(색·폰트 테마), `ppt/slides/*.xml`을 직접 읽으면 색·폰트·레이아웃을 **PDF보다 정확히** 얻는다. 또는 pptx 전용 스킬로 파싱한다. pptx가 있으면 이 경로를 우선한다.
+
+---
+
 ## 2.1 컬러 팔레트 추출
 
 파일의 모든 색상을 식별하고 다음과 같이 문서화합니다:

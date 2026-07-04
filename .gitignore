@@ -16,3 +16,6 @@ node_modules/
 
 # Local working state
 .superpowers/
+
+# Skill-creator test scaffolding (snapshots, eval runs)
+slide-clone-workspace/
