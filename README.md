@@ -35,6 +35,12 @@
 
 나머지 과정, 곧 디자인을 입히고 슬라이드를 구성하는 일은 AI가 알아서 처리합니다.
 
+코딩 에이전트(예: Claude Code)를 쓰신다면, 저장소를 통째로 내려받아 쓰도록 이렇게 한 줄로 요청하셔도 됩니다.
+
+```
+Clone https://github.com/airoasting/slide_library and follow the instructions in AGENTS.md to build me a beautiful HTML slide deck.
+```
+
 ## 이미 있는 자료의 디자인을 그대로 복제하기
 
 손에 든 PDF나 파워포인트가 있으시다면, `slide-clone` 기능이 그 자료의 색, 글꼴, 배치, 문장 규칙을 분석해 같은 디자인으로 새 슬라이드를 만들 수 있는 설계도를 정리해 드립니다. AI 비서에게 이렇게 말씀하시면 됩니다.
