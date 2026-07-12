@@ -22,7 +22,7 @@ Wait for the user's answer. Do not pick yet. Even if the brief seems obvious, st
 
 ### Step 2. Read `index.json` and pick 3 candidates
 
-Read `index.json` at the repo root. Match the user's stated occasion + mood against each template's `mood`, `tone`, `best_for`, and `formality`. **Pick three templates** whose tones genuinely fit. The three should be **different enough from each other** that the user has a real choice, e.g. don't pick three editorial templates if the brief is editorial; pick one editorial, one warmer alternative, and one wildcard that re-interprets the brief.
+Read `index.json` in the `docs/` folder (`docs/index.json`); the templates themselves live under `docs/templates/<slug>/`. Match the user's stated occasion + mood against each template's `mood`, `tone`, `best_for`, and `formality`. **Pick three templates** whose tones genuinely fit. The three should be **different enough from each other** that the user has a real choice, e.g. don't pick three editorial templates if the brief is editorial; pick one editorial, one warmer alternative, and one wildcard that re-interprets the brief.
 
 ### Step 3. Build a title-slide preview of each candidate
 

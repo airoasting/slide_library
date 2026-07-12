@@ -15,8 +15,8 @@ import { fileURLToPath } from 'node:url';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const REPO_ROOT = join(__dirname, '..');
-const TEMPLATES_DIR = join(REPO_ROOT, 'templates');
-const OUT_PATH = join(REPO_ROOT, 'index.json');
+const TEMPLATES_DIR = join(REPO_ROOT, 'docs', 'templates');
+const OUT_PATH = join(REPO_ROOT, 'docs', 'index.json');
 
 // Only include the fields the matcher actually uses.
 // Keep the index tight so the agent's context stays cheap.

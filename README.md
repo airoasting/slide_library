@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://airoasting-slide.vercel.app/">
-    <img src="./assets/og-image.png" alt="슬라이드 라이브러리 — AI에게 한 문장만 던지면 주제에 맞는 템플릿을 골라 슬라이드를 만들어 줍니다. 35개 템플릿, 6개 카테고리." width="100%" />
+    <img src="./docs/assets/og-image.png" alt="슬라이드 라이브러리 — AI에게 한 문장만 던지면 주제에 맞는 템플릿을 골라 슬라이드를 만들어 줍니다. 35개 템플릿, 6개 카테고리." width="100%" />
   </a>
 </p>
 
@@ -68,32 +68,32 @@ https://github.com/airoasting/slide_library 저장소를 클론하고, AGENTS.md
 
 ## 1. 컨설팅 펌
 
-### [맥킨지 네이비 (McKinsey Navy)](./templates/mckinsey-navy/)
+### [맥킨지 네이비 (McKinsey Navy)](./docs/templates/mckinsey-navy/)
 
 <p>
-  <img src="./assets/screenshots/mckinsey-navy-1.png" width="32.5%" alt="맥킨지 네이비 슬라이드 1" />
-  <img src="./assets/screenshots/mckinsey-navy-2.png" width="32.5%" alt="맥킨지 네이비 슬라이드 2" />
-  <img src="./assets/screenshots/mckinsey-navy-3.png" width="32.5%" alt="맥킨지 네이비 슬라이드 3" />
+  <img src="./docs/assets/screenshots/mckinsey-navy-1.png" width="32.5%" alt="맥킨지 네이비 슬라이드 1" />
+  <img src="./docs/assets/screenshots/mckinsey-navy-2.png" width="32.5%" alt="맥킨지 네이비 슬라이드 2" />
+  <img src="./docs/assets/screenshots/mckinsey-navy-3.png" width="32.5%" alt="맥킨지 네이비 슬라이드 3" />
 </p>
 
 > 딥 네이비 캔버스에 풍부한 여백과 액션 타이틀 구조를 얹은 시그니처 무드입니다. 전략 보고서, 이사회 발표, M&A 자문에 잘 어울립니다.
 
-### [베인 레드 (Bain Red)](./templates/bain-red/)
+### [베인 레드 (Bain Red)](./docs/templates/bain-red/)
 
 <p>
-  <img src="./assets/screenshots/bain-red-1.png" width="32.5%" alt="베인 레드 슬라이드 1" />
-  <img src="./assets/screenshots/bain-red-2.png" width="32.5%" alt="베인 레드 슬라이드 2" />
-  <img src="./assets/screenshots/bain-red-3.png" width="32.5%" alt="베인 레드 슬라이드 3" />
+  <img src="./docs/assets/screenshots/bain-red-1.png" width="32.5%" alt="베인 레드 슬라이드 1" />
+  <img src="./docs/assets/screenshots/bain-red-2.png" width="32.5%" alt="베인 레드 슬라이드 2" />
+  <img src="./docs/assets/screenshots/bain-red-3.png" width="32.5%" alt="베인 레드 슬라이드 3" />
 </p>
 
 > 화이트 캔버스 위에 시그니처 레드를 얹은 디자인입니다. 깔끔한 그리드와 결과 중심의 톤이 실행 로드맵이나 PE 듀딜리전스에 잘 맞습니다.
 
-### [비씨지 그린 (BCG Green)](./templates/bcg-green/)
+### [비씨지 그린 (BCG Green)](./docs/templates/bcg-green/)
 
 <p>
-  <img src="./assets/screenshots/bcg-green-1.png" width="32.5%" alt="비씨지 그린 슬라이드 1" />
-  <img src="./assets/screenshots/bcg-green-2.png" width="32.5%" alt="비씨지 그린 슬라이드 2" />
-  <img src="./assets/screenshots/bcg-green-3.png" width="32.5%" alt="비씨지 그린 슬라이드 3" />
+  <img src="./docs/assets/screenshots/bcg-green-1.png" width="32.5%" alt="비씨지 그린 슬라이드 1" />
+  <img src="./docs/assets/screenshots/bcg-green-2.png" width="32.5%" alt="비씨지 그린 슬라이드 2" />
+  <img src="./docs/assets/screenshots/bcg-green-3.png" width="32.5%" alt="비씨지 그린 슬라이드 3" />
 </p>
 
 > 시그니처 다크 그린과 절제된 그리드로 사고의 깊이를 강조하는 프로페셔널 스타일입니다. 성장 점유율 분석이나 디지털 전환 로드맵에 어울립니다.
@@ -102,62 +102,62 @@ https://github.com/airoasting/slide_library 저장소를 클론하고, AGENTS.md
 
 ## 2. 정중·기관형 (IR / 이사회 / 학술 / 화이트페이퍼)
 
-### [네이비 골드 (Navy Gold)](./templates/navy-gold/)
+### [네이비 골드 (Navy Gold)](./docs/templates/navy-gold/)
 
 <p>
-  <img src="./assets/screenshots/navy-gold-1.png" width="32.5%" alt="네이비 골드 슬라이드 1" />
-  <img src="./assets/screenshots/navy-gold-8.png" width="32.5%" alt="네이비 골드 슬라이드 8" />
-  <img src="./assets/screenshots/navy-gold-18.png" width="32.5%" alt="네이비 골드 슬라이드 18" />
+  <img src="./docs/assets/screenshots/navy-gold-1.png" width="32.5%" alt="네이비 골드 슬라이드 1" />
+  <img src="./docs/assets/screenshots/navy-gold-8.png" width="32.5%" alt="네이비 골드 슬라이드 8" />
+  <img src="./docs/assets/screenshots/navy-gold-18.png" width="32.5%" alt="네이비 골드 슬라이드 18" />
 </p>
 
 > 짙은 남색 배경에 골드 포인트를 더한 묵직한 톤입니다. 이사회, IR, 정책 보고 자리에 잘 어울립니다.
 
-### [딥 네이비 서재 (Deep Navy Library)](./templates/navy-library/)
+### [딥 네이비 서재 (Deep Navy Library)](./docs/templates/navy-library/)
 
 <p>
-  <img src="./assets/screenshots/navy-library-1.png" width="32.5%" alt="딥 네이비 서재 슬라이드 1" />
-  <img src="./assets/screenshots/navy-library-4.png" width="32.5%" alt="딥 네이비 서재 슬라이드 4" />
-  <img src="./assets/screenshots/navy-library-8.png" width="32.5%" alt="딥 네이비 서재 슬라이드 8" />
+  <img src="./docs/assets/screenshots/navy-library-1.png" width="32.5%" alt="딥 네이비 서재 슬라이드 1" />
+  <img src="./docs/assets/screenshots/navy-library-4.png" width="32.5%" alt="딥 네이비 서재 슬라이드 4" />
+  <img src="./docs/assets/screenshots/navy-library-8.png" width="32.5%" alt="딥 네이비 서재 슬라이드 8" />
 </p>
 
 > 어두운 남색 위에 따뜻한 노란 글자를 얹은 차분한 학구적 무드입니다. 논문이나 리서치 보고서에 잘 맞습니다.
 
-### [흑백 타이포 (Black & White Typo)](./templates/bw-typo/)
+### [흑백 타이포 (Black & White Typo)](./docs/templates/bw-typo/)
 
 <p>
-  <img src="./assets/screenshots/bw-typo-1.png" width="32.5%" alt="흑백 타이포 슬라이드 1" />
-  <img src="./assets/screenshots/bw-typo-4.png" width="32.5%" alt="흑백 타이포 슬라이드 4" />
-  <img src="./assets/screenshots/bw-typo-12.png" width="32.5%" alt="흑백 타이포 슬라이드 12" />
+  <img src="./docs/assets/screenshots/bw-typo-1.png" width="32.5%" alt="흑백 타이포 슬라이드 1" />
+  <img src="./docs/assets/screenshots/bw-typo-4.png" width="32.5%" alt="흑백 타이포 슬라이드 4" />
+  <img src="./docs/assets/screenshots/bw-typo-12.png" width="32.5%" alt="흑백 타이포 슬라이드 12" />
 </p>
 
 > 아이보리 종이에 검정 글자만 올렸습니다. 색을 빼고 글자만으로 말하는 덱입니다.
 
-### [차분한 클래식 (Calm Classic)](./templates/calm-classic/)
+### [차분한 클래식 (Calm Classic)](./docs/templates/calm-classic/)
 
 <p>
-  <img src="./assets/screenshots/calm-classic-1.png" width="32.5%" alt="차분한 클래식 슬라이드 1" />
-  <img src="./assets/screenshots/calm-classic-4.png" width="32.5%" alt="차분한 클래식 슬라이드 4" />
-  <img src="./assets/screenshots/calm-classic-8.png" width="32.5%" alt="차분한 클래식 슬라이드 8" />
+  <img src="./docs/assets/screenshots/calm-classic-1.png" width="32.5%" alt="차분한 클래식 슬라이드 1" />
+  <img src="./docs/assets/screenshots/calm-classic-4.png" width="32.5%" alt="차분한 클래식 슬라이드 4" />
+  <img src="./docs/assets/screenshots/calm-classic-8.png" width="32.5%" alt="차분한 클래식 슬라이드 8" />
 </p>
 
 > 따뜻한 중립 색상에 클래식 글꼴을 얹었습니다. 정제되고 여유로운 톤이 살아납니다.
 
-### [소프트 클래식 (Soft Classic)](./templates/soft-classic/)
+### [소프트 클래식 (Soft Classic)](./docs/templates/soft-classic/)
 
 <p>
-  <img src="./assets/screenshots/soft-classic-4.png" width="32.5%" alt="소프트 클래식 슬라이드 4" />
-  <img src="./assets/screenshots/soft-classic-6.png" width="32.5%" alt="소프트 클래식 슬라이드 6" />
-  <img src="./assets/screenshots/soft-classic-10.png" width="32.5%" alt="소프트 클래식 슬라이드 10" />
+  <img src="./docs/assets/screenshots/soft-classic-4.png" width="32.5%" alt="소프트 클래식 슬라이드 4" />
+  <img src="./docs/assets/screenshots/soft-classic-6.png" width="32.5%" alt="소프트 클래식 슬라이드 6" />
+  <img src="./docs/assets/screenshots/soft-classic-10.png" width="32.5%" alt="소프트 클래식 슬라이드 10" />
 </p>
 
 > 따뜻한 종이에 파스텔 포인트를 살린 디자인입니다. 우아하고 조용한 인상을 줍니다.
 
-### [모눈종이 블루 (Grid Paper Blue)](./templates/grid-blue/)
+### [모눈종이 블루 (Grid Paper Blue)](./docs/templates/grid-blue/)
 
 <p>
-  <img src="./assets/screenshots/grid-blue-1.png" width="32.5%" alt="모눈종이 블루 슬라이드 1" />
-  <img src="./assets/screenshots/grid-blue-3.png" width="32.5%" alt="모눈종이 블루 슬라이드 3" />
-  <img src="./assets/screenshots/grid-blue-5.png" width="32.5%" alt="모눈종이 블루 슬라이드 5" />
+  <img src="./docs/assets/screenshots/grid-blue-1.png" width="32.5%" alt="모눈종이 블루 슬라이드 1" />
+  <img src="./docs/assets/screenshots/grid-blue-3.png" width="32.5%" alt="모눈종이 블루 슬라이드 3" />
+  <img src="./docs/assets/screenshots/grid-blue-5.png" width="32.5%" alt="모눈종이 블루 슬라이드 5" />
 </p>
 
 > 모눈종이 위에 짙은 파랑 글꼴을 올렸습니다. 리서치나 디자인 리포트에 어울리는 모더니스트 무드입니다.
@@ -166,82 +166,82 @@ https://github.com/airoasting/slide_library 저장소를 클론하고, AGENTS.md
 
 ## 3. 에디토리얼·매거진·포스터
 
-### [다크 매거진 (Dark Magazine)](./templates/dark-magazine/)
+### [다크 매거진 (Dark Magazine)](./docs/templates/dark-magazine/)
 
 <p>
-  <img src="./assets/screenshots/dark-magazine-1.png" width="32.5%" alt="다크 매거진 슬라이드 1" />
-  <img src="./assets/screenshots/dark-magazine-4.png" width="32.5%" alt="다크 매거진 슬라이드 4" />
-  <img src="./assets/screenshots/dark-magazine-13.png" width="32.5%" alt="다크 매거진 슬라이드 13" />
+  <img src="./docs/assets/screenshots/dark-magazine-1.png" width="32.5%" alt="다크 매거진 슬라이드 1" />
+  <img src="./docs/assets/screenshots/dark-magazine-4.png" width="32.5%" alt="다크 매거진 슬라이드 4" />
+  <img src="./docs/assets/screenshots/dark-magazine-13.png" width="32.5%" alt="다크 매거진 슬라이드 13" />
 </p>
 
 > 어두운 캔버스 위에 오렌지 한 점을 찍었습니다. 매거진 표지처럼 떨어지는 덱입니다.
 
-### [대형 포스터 (Bold Poster)](./templates/bold-poster/)
+### [대형 포스터 (Bold Poster)](./docs/templates/bold-poster/)
 
 <p>
-  <img src="./assets/screenshots/bold-poster-1.png" width="32.5%" alt="대형 포스터 슬라이드 1" />
-  <img src="./assets/screenshots/bold-poster-4.png" width="32.5%" alt="대형 포스터 슬라이드 4" />
-  <img src="./assets/screenshots/bold-poster-8.png" width="32.5%" alt="대형 포스터 슬라이드 8" />
+  <img src="./docs/assets/screenshots/bold-poster-1.png" width="32.5%" alt="대형 포스터 슬라이드 1" />
+  <img src="./docs/assets/screenshots/bold-poster-4.png" width="32.5%" alt="대형 포스터 슬라이드 4" />
+  <img src="./docs/assets/screenshots/bold-poster-8.png" width="32.5%" alt="대형 포스터 슬라이드 8" />
 </p>
 
 > 큰 글씨에 빨간 포인트 하나를 더했습니다. 포스터처럼 강렬한 발표에 잘 어울립니다.
 
-### [캠페인 포스터 (Campaign Poster)](./templates/campaign-poster/)
+### [캠페인 포스터 (Campaign Poster)](./docs/templates/campaign-poster/)
 
 <p>
-  <img src="./assets/screenshots/campaign-poster-1.png" width="32.5%" alt="캠페인 포스터 슬라이드 1" />
-  <img src="./assets/screenshots/campaign-poster-4.png" width="32.5%" alt="캠페인 포스터 슬라이드 4" />
-  <img src="./assets/screenshots/campaign-poster-8.png" width="32.5%" alt="캠페인 포스터 슬라이드 8" />
+  <img src="./docs/assets/screenshots/campaign-poster-1.png" width="32.5%" alt="캠페인 포스터 슬라이드 1" />
+  <img src="./docs/assets/screenshots/campaign-poster-4.png" width="32.5%" alt="캠페인 포스터 슬라이드 4" />
+  <img src="./docs/assets/screenshots/campaign-poster-8.png" width="32.5%" alt="캠페인 포스터 슬라이드 8" />
 </p>
 
 > 크림 바탕 위에 파랑, 주황, 빨강을 올렸습니다. 캠페인이나 커뮤니티 발표에 어울리는 액티비스트 에너지가 있습니다.
 
-### [3색 매거진 (Tri-Color Magazine)](./templates/tri-color-magazine/)
+### [3색 매거진 (Tri-Color Magazine)](./docs/templates/tri-color-magazine/)
 
 <p>
-  <img src="./assets/screenshots/tri-color-magazine-1.png" width="32.5%" alt="3색 매거진 슬라이드 1" />
-  <img src="./assets/screenshots/tri-color-magazine-3.png" width="32.5%" alt="3색 매거진 슬라이드 3" />
-  <img src="./assets/screenshots/tri-color-magazine-4.png" width="32.5%" alt="3색 매거진 슬라이드 4" />
+  <img src="./docs/assets/screenshots/tri-color-magazine-1.png" width="32.5%" alt="3색 매거진 슬라이드 1" />
+  <img src="./docs/assets/screenshots/tri-color-magazine-3.png" width="32.5%" alt="3색 매거진 슬라이드 3" />
+  <img src="./docs/assets/screenshots/tri-color-magazine-4.png" width="32.5%" alt="3색 매거진 슬라이드 4" />
 </p>
 
 > 분홍, 크림, 와인색 세 가지로 구성했습니다. 패션 매거진 무드에 가깝습니다.
 
-### [레트로 잡지 (Retro Magazine)](./templates/retro-magazine/)
+### [레트로 잡지 (Retro Magazine)](./docs/templates/retro-magazine/)
 
 <p>
-  <img src="./assets/screenshots/retro-magazine-1.png" width="32.5%" alt="레트로 잡지 슬라이드 1" />
-  <img src="./assets/screenshots/retro-magazine-4.png" width="32.5%" alt="레트로 잡지 슬라이드 4" />
-  <img src="./assets/screenshots/retro-magazine-8.png" width="32.5%" alt="레트로 잡지 슬라이드 8" />
+  <img src="./docs/assets/screenshots/retro-magazine-1.png" width="32.5%" alt="레트로 잡지 슬라이드 1" />
+  <img src="./docs/assets/screenshots/retro-magazine-4.png" width="32.5%" alt="레트로 잡지 슬라이드 4" />
+  <img src="./docs/assets/screenshots/retro-magazine-8.png" width="32.5%" alt="레트로 잡지 슬라이드 8" />
 </p>
 
 > 베이지 종이에 초록 포인트를 더했습니다. 인디 잡지나 수공예 느낌이 납니다.
 
-### [흙빛 아카이브 (Earth Archive)](./templates/earth-archive/)
+### [흙빛 아카이브 (Earth Archive)](./docs/templates/earth-archive/)
 
 <p>
-  <img src="./assets/screenshots/earth-archive-1.png" width="32.5%" alt="흙빛 아카이브 슬라이드 1" />
-  <img src="./assets/screenshots/earth-archive-3.png" width="32.5%" alt="흙빛 아카이브 슬라이드 3" />
-  <img src="./assets/screenshots/earth-archive-8.png" width="32.5%" alt="흙빛 아카이브 슬라이드 8" />
+  <img src="./docs/assets/screenshots/earth-archive-1.png" width="32.5%" alt="흙빛 아카이브 슬라이드 1" />
+  <img src="./docs/assets/screenshots/earth-archive-3.png" width="32.5%" alt="흙빛 아카이브 슬라이드 3" />
+  <img src="./docs/assets/screenshots/earth-archive-8.png" width="32.5%" alt="흙빛 아카이브 슬라이드 8" />
 </p>
 
 > 흙빛 6색 팔레트에 스텐실 글씨를 얹었습니다. 박물관이나 공예 브랜드에 잘 맞습니다.
 
-### [선샤인 옐로 (Sunshine Yellow)](./templates/sunshine-yellow/)
+### [선샤인 옐로 (Sunshine Yellow)](./docs/templates/sunshine-yellow/)
 
 <p>
-  <img src="./assets/screenshots/sunshine-yellow-1.png" width="32.5%" alt="선샤인 옐로 슬라이드 1" />
-  <img src="./assets/screenshots/sunshine-yellow-5.png" width="32.5%" alt="선샤인 옐로 슬라이드 5" />
-  <img src="./assets/screenshots/sunshine-yellow-8.png" width="32.5%" alt="선샤인 옐로 슬라이드 8" />
+  <img src="./docs/assets/screenshots/sunshine-yellow-1.png" width="32.5%" alt="선샤인 옐로 슬라이드 1" />
+  <img src="./docs/assets/screenshots/sunshine-yellow-5.png" width="32.5%" alt="선샤인 옐로 슬라이드 5" />
+  <img src="./docs/assets/screenshots/sunshine-yellow-8.png" width="32.5%" alt="선샤인 옐로 슬라이드 8" />
 </p>
 
 > 따뜻한 종이 위에 노란 햇살을 담았습니다. 전시나 문화 행사에 어울리는 에디토리얼 포스터입니다.
 
-### [핀 노트 (Pin Note)](./templates/pin-note/)
+### [핀 노트 (Pin Note)](./docs/templates/pin-note/)
 
 <p>
-  <img src="./assets/screenshots/pin-note-1.png" width="32.5%" alt="핀 노트 슬라이드 1" />
-  <img src="./assets/screenshots/pin-note-3.png" width="32.5%" alt="핀 노트 슬라이드 3" />
-  <img src="./assets/screenshots/pin-note-11.png" width="32.5%" alt="핀 노트 슬라이드 11" />
+  <img src="./docs/assets/screenshots/pin-note-1.png" width="32.5%" alt="핀 노트 슬라이드 1" />
+  <img src="./docs/assets/screenshots/pin-note-3.png" width="32.5%" alt="핀 노트 슬라이드 3" />
+  <img src="./docs/assets/screenshots/pin-note-11.png" width="32.5%" alt="핀 노트 슬라이드 11" />
 </p>
 
 > 노란 종이에 핀 그림과 손글씨를 올렸습니다. 정성을 들인 수공예 같은 느낌이 납니다.
@@ -250,72 +250,72 @@ https://github.com/airoasting/slide_library 저장소를 클론하고, AGENTS.md
 
 ## 4. 브랜드·라이프스타일·호스피탈리티
 
-### [나이트 핑크 (Night Pink)](./templates/night-pink/)
+### [나이트 핑크 (Night Pink)](./docs/templates/night-pink/)
 
 <p>
-  <img src="./assets/screenshots/night-pink-1.png" width="32.5%" alt="나이트 핑크 슬라이드 1" />
-  <img src="./assets/screenshots/night-pink-4.png" width="32.5%" alt="나이트 핑크 슬라이드 4" />
-  <img src="./assets/screenshots/night-pink-8.png" width="32.5%" alt="나이트 핑크 슬라이드 8" />
+  <img src="./docs/assets/screenshots/night-pink-1.png" width="32.5%" alt="나이트 핑크 슬라이드 1" />
+  <img src="./docs/assets/screenshots/night-pink-4.png" width="32.5%" alt="나이트 핑크 슬라이드 4" />
+  <img src="./docs/assets/screenshots/night-pink-8.png" width="32.5%" alt="나이트 핑크 슬라이드 8" />
 </p>
 
 > 검정 배경에 핫핑크 포인트를 더했습니다. 세련되고 럭셔리한 심야 에디토리얼입니다.
 
-### [숲속 그린 (Forest Green)](./templates/forest-green/)
+### [숲속 그린 (Forest Green)](./docs/templates/forest-green/)
 
 <p>
-  <img src="./assets/screenshots/forest-green-1.png" width="32.5%" alt="숲속 그린 슬라이드 1" />
-  <img src="./assets/screenshots/forest-green-4.png" width="32.5%" alt="숲속 그린 슬라이드 4" />
-  <img src="./assets/screenshots/forest-green-8.png" width="32.5%" alt="숲속 그린 슬라이드 8" />
+  <img src="./docs/assets/screenshots/forest-green-1.png" width="32.5%" alt="숲속 그린 슬라이드 1" />
+  <img src="./docs/assets/screenshots/forest-green-4.png" width="32.5%" alt="숲속 그린 슬라이드 4" />
+  <img src="./docs/assets/screenshots/forest-green-8.png" width="32.5%" alt="숲속 그린 슬라이드 8" />
 </p>
 
 > 짙은 초록 배경에 크림색 글자를 얹었습니다. 자연이나 웰니스 브랜드에 잘 어울립니다.
 
-### [다크 코랄 (Dark Coral)](./templates/coral/)
+### [다크 코랄 (Dark Coral)](./docs/templates/coral/)
 
 <p>
-  <img src="./assets/screenshots/coral-1.png" width="32.5%" alt="다크 코랄 슬라이드 1" />
-  <img src="./assets/screenshots/coral-4.png" width="32.5%" alt="다크 코랄 슬라이드 4" />
-  <img src="./assets/screenshots/coral-8.png" width="32.5%" alt="다크 코랄 슬라이드 8" />
+  <img src="./docs/assets/screenshots/coral-1.png" width="32.5%" alt="다크 코랄 슬라이드 1" />
+  <img src="./docs/assets/screenshots/coral-4.png" width="32.5%" alt="다크 코랄 슬라이드 4" />
+  <img src="./docs/assets/screenshots/coral-8.png" width="32.5%" alt="다크 코랄 슬라이드 8" />
 </p>
 
 > 어두운 배경 위에 산호색과 크림을 올렸습니다. 패션이나 라이프스타일 분야에 잘 맞습니다.
 
-### [올리브 모던 (Olive Modern)](./templates/olive-modern/)
+### [올리브 모던 (Olive Modern)](./docs/templates/olive-modern/)
 
 <p>
-  <img src="./assets/screenshots/olive-modern-1.png" width="32.5%" alt="올리브 모던 슬라이드 1" />
-  <img src="./assets/screenshots/olive-modern-4.png" width="32.5%" alt="올리브 모던 슬라이드 4" />
-  <img src="./assets/screenshots/olive-modern-8.png" width="32.5%" alt="올리브 모던 슬라이드 8" />
+  <img src="./docs/assets/screenshots/olive-modern-1.png" width="32.5%" alt="올리브 모던 슬라이드 1" />
+  <img src="./docs/assets/screenshots/olive-modern-4.png" width="32.5%" alt="올리브 모던 슬라이드 4" />
+  <img src="./docs/assets/screenshots/olive-modern-8.png" width="32.5%" alt="올리브 모던 슬라이드 8" />
 </p>
 
 > 올리브색 배경에 크림과 주황 포인트를 더했습니다. 건축, 인테리어, 공예 브랜드에 어울리는 미드센추리 무드입니다.
 
-### [따뜻한 크림 (Warm Cream)](./templates/warm-cream/)
+### [따뜻한 크림 (Warm Cream)](./docs/templates/warm-cream/)
 
 <p>
-  <img src="./assets/screenshots/warm-cream-1.png" width="32.5%" alt="따뜻한 크림 슬라이드 1" />
-  <img src="./assets/screenshots/warm-cream-3.png" width="32.5%" alt="따뜻한 크림 슬라이드 3" />
-  <img src="./assets/screenshots/warm-cream-7.png" width="32.5%" alt="따뜻한 크림 슬라이드 7" />
+  <img src="./docs/assets/screenshots/warm-cream-1.png" width="32.5%" alt="따뜻한 크림 슬라이드 1" />
+  <img src="./docs/assets/screenshots/warm-cream-3.png" width="32.5%" alt="따뜻한 크림 슬라이드 3" />
+  <img src="./docs/assets/screenshots/warm-cream-7.png" width="32.5%" alt="따뜻한 크림 슬라이드 7" />
 </p>
 
 > 크림색 배경에 벽돌색 포인트를 얹었습니다. 모임, 레스토랑, 이벤트에 어울리는 호스피탈리티 무드입니다.
 
-### [복숭아 톤 (Peach Tone)](./templates/peach-tone/)
+### [복숭아 톤 (Peach Tone)](./docs/templates/peach-tone/)
 
 <p>
-  <img src="./assets/screenshots/peach-tone-1.png" width="32.5%" alt="복숭아 톤 슬라이드 1" />
-  <img src="./assets/screenshots/peach-tone-6.png" width="32.5%" alt="복숭아 톤 슬라이드 6" />
-  <img src="./assets/screenshots/peach-tone-8.png" width="32.5%" alt="복숭아 톤 슬라이드 8" />
+  <img src="./docs/assets/screenshots/peach-tone-1.png" width="32.5%" alt="복숭아 톤 슬라이드 1" />
+  <img src="./docs/assets/screenshots/peach-tone-6.png" width="32.5%" alt="복숭아 톤 슬라이드 6" />
+  <img src="./docs/assets/screenshots/peach-tone-8.png" width="32.5%" alt="복숭아 톤 슬라이드 8" />
 </p>
 
 > 복숭아색 배경이 다정한 톤을 만들어 줍니다. 소규모 브랜드나 크리에이터에게 잘 맞습니다.
 
-### [파스텔 카드 (Pastel Card)](./templates/pastel-card/)
+### [파스텔 카드 (Pastel Card)](./docs/templates/pastel-card/)
 
 <p>
-  <img src="./assets/screenshots/pastel-card-1.png" width="32.5%" alt="파스텔 카드 슬라이드 1" />
-  <img src="./assets/screenshots/pastel-card-4.png" width="32.5%" alt="파스텔 카드 슬라이드 4" />
-  <img src="./assets/screenshots/pastel-card-8.png" width="32.5%" alt="파스텔 카드 슬라이드 8" />
+  <img src="./docs/assets/screenshots/pastel-card-1.png" width="32.5%" alt="파스텔 카드 슬라이드 1" />
+  <img src="./docs/assets/screenshots/pastel-card-4.png" width="32.5%" alt="파스텔 카드 슬라이드 4" />
+  <img src="./docs/assets/screenshots/pastel-card-8.png" width="32.5%" alt="파스텔 카드 슬라이드 8" />
 </p>
 
 > 둥근 카드 모양에 파스텔 팝 색상을 입혔습니다. 밝고 귀여운 무드가 살아납니다.
@@ -324,72 +324,72 @@ https://github.com/airoasting/slide_library 저장소를 클론하고, AGENTS.md
 
 ## 5. 크리에이티브 스튜디오·에이전시·스타트업
 
-### [블랙 옐로 (Black Yellow)](./templates/black-yellow/)
+### [블랙 옐로 (Black Yellow)](./docs/templates/black-yellow/)
 
 <p>
-  <img src="./assets/screenshots/black-yellow-1.png" width="32.5%" alt="블랙 옐로 슬라이드 1" />
-  <img src="./assets/screenshots/black-yellow-4.png" width="32.5%" alt="블랙 옐로 슬라이드 4" />
-  <img src="./assets/screenshots/black-yellow-8.png" width="32.5%" alt="블랙 옐로 슬라이드 8" />
+  <img src="./docs/assets/screenshots/black-yellow-1.png" width="32.5%" alt="블랙 옐로 슬라이드 1" />
+  <img src="./docs/assets/screenshots/black-yellow-4.png" width="32.5%" alt="블랙 옐로 슬라이드 4" />
+  <img src="./docs/assets/screenshots/black-yellow-8.png" width="32.5%" alt="블랙 옐로 슬라이드 8" />
 </p>
 
 > 검정 배경에 노란 글자를 올렸습니다. 강렬하고 대비가 높은 디자인 스튜디오 무드입니다.
 
-### [형광 옐로 (Neon Yellow)](./templates/neon-yellow/)
+### [형광 옐로 (Neon Yellow)](./docs/templates/neon-yellow/)
 
 <p>
-  <img src="./assets/screenshots/neon-yellow-1.png" width="32.5%" alt="형광 옐로 슬라이드 1" />
-  <img src="./assets/screenshots/neon-yellow-3.png" width="32.5%" alt="형광 옐로 슬라이드 3" />
-  <img src="./assets/screenshots/neon-yellow-8.png" width="32.5%" alt="형광 옐로 슬라이드 8" />
+  <img src="./docs/assets/screenshots/neon-yellow-1.png" width="32.5%" alt="형광 옐로 슬라이드 1" />
+  <img src="./docs/assets/screenshots/neon-yellow-3.png" width="32.5%" alt="형광 옐로 슬라이드 3" />
+  <img src="./docs/assets/screenshots/neon-yellow-8.png" width="32.5%" alt="형광 옐로 슬라이드 8" />
 </p>
 
 > 흰 종이에 형광 노랑 포인트 하나를 찍었습니다. 강렬하고 모던한 에디토리얼 네오브루탈리즘입니다.
 
-### [소프트 뉴모피즘 (Soft Neumorph)](./templates/soft-neumorph/)
+### [소프트 뉴모피즘 (Soft Neumorph)](./docs/templates/soft-neumorph/)
 
 <p>
-  <img src="./assets/screenshots/soft-neumorph-1.png" width="32.5%" alt="소프트 뉴모피즘 슬라이드 1" />
-  <img src="./assets/screenshots/soft-neumorph-3.png" width="32.5%" alt="소프트 뉴모피즘 슬라이드 3" />
-  <img src="./assets/screenshots/soft-neumorph-7.png" width="32.5%" alt="소프트 뉴모피즘 슬라이드 7" />
+  <img src="./docs/assets/screenshots/soft-neumorph-1.png" width="32.5%" alt="소프트 뉴모피즘 슬라이드 1" />
+  <img src="./docs/assets/screenshots/soft-neumorph-3.png" width="32.5%" alt="소프트 뉴모피즘 슬라이드 3" />
+  <img src="./docs/assets/screenshots/soft-neumorph-7.png" width="32.5%" alt="소프트 뉴모피즘 슬라이드 7" />
 </p>
 
 > 부드러운 블루 그레이 캔버스에 양각과 음각 그림자를 더해 촉각형 디자인을 만들었습니다.
 
-### [컬러 블록 (Color Block)](./templates/color-block/)
+### [컬러 블록 (Color Block)](./docs/templates/color-block/)
 
 <p>
-  <img src="./assets/screenshots/color-block-1.png" width="32.5%" alt="컬러 블록 슬라이드 1" />
-  <img src="./assets/screenshots/color-block-4.png" width="32.5%" alt="컬러 블록 슬라이드 4" />
-  <img src="./assets/screenshots/color-block-8.png" width="32.5%" alt="컬러 블록 슬라이드 8" />
+  <img src="./docs/assets/screenshots/color-block-1.png" width="32.5%" alt="컬러 블록 슬라이드 1" />
+  <img src="./docs/assets/screenshots/color-block-4.png" width="32.5%" alt="컬러 블록 슬라이드 4" />
+  <img src="./docs/assets/screenshots/color-block-8.png" width="32.5%" alt="컬러 블록 슬라이드 8" />
 </p>
 
 > 파스텔 컬러 블록에 굵은 검정 테두리를 둘렀습니다. 산뜻하면서도 대담한 네오브루탈 덱입니다.
 
-### [알록달록 크리에이티브 (Colorful Creative)](./templates/colorful-creative/)
+### [알록달록 크리에이티브 (Colorful Creative)](./docs/templates/colorful-creative/)
 
 <p>
-  <img src="./assets/screenshots/colorful-creative-1.png" width="32.5%" alt="알록달록 크리에이티브 슬라이드 1" />
-  <img src="./assets/screenshots/colorful-creative-4.png" width="32.5%" alt="알록달록 크리에이티브 슬라이드 4" />
-  <img src="./assets/screenshots/colorful-creative-6.png" width="32.5%" alt="알록달록 크리에이티브 슬라이드 6" />
+  <img src="./docs/assets/screenshots/colorful-creative-1.png" width="32.5%" alt="알록달록 크리에이티브 슬라이드 1" />
+  <img src="./docs/assets/screenshots/colorful-creative-4.png" width="32.5%" alt="알록달록 크리에이티브 슬라이드 4" />
+  <img src="./docs/assets/screenshots/colorful-creative-6.png" width="32.5%" alt="알록달록 크리에이티브 슬라이드 6" />
 </p>
 
 > 크림 배경 위에 초록, 분홍, 주황, 노랑을 함께 올렸습니다. 밝고 활기찬 무드입니다.
 
-### [거친 그리드 (Rough Grid)](./templates/rough-grid/)
+### [거친 그리드 (Rough Grid)](./docs/templates/rough-grid/)
 
 <p>
-  <img src="./assets/screenshots/rough-grid-1.png" width="32.5%" alt="거친 그리드 슬라이드 1" />
-  <img src="./assets/screenshots/rough-grid-4.png" width="32.5%" alt="거친 그리드 슬라이드 4" />
-  <img src="./assets/screenshots/rough-grid-8.png" width="32.5%" alt="거친 그리드 슬라이드 8" />
+  <img src="./docs/assets/screenshots/rough-grid-1.png" width="32.5%" alt="거친 그리드 슬라이드 1" />
+  <img src="./docs/assets/screenshots/rough-grid-4.png" width="32.5%" alt="거친 그리드 슬라이드 4" />
+  <img src="./docs/assets/screenshots/rough-grid-8.png" width="32.5%" alt="거친 그리드 슬라이드 8" />
 </p>
 
 > 두꺼운 테두리와 그림자에 분홍, 초록, 잉크색의 에너지를 더했습니다.
 
-### [포스트잇 보드 (Post-it Board)](./templates/postit-board/)
+### [포스트잇 보드 (Post-it Board)](./docs/templates/postit-board/)
 
 <p>
-  <img src="./assets/screenshots/postit-board-1.png" width="32.5%" alt="포스트잇 보드 슬라이드 1" />
-  <img src="./assets/screenshots/postit-board-4.png" width="32.5%" alt="포스트잇 보드 슬라이드 4" />
-  <img src="./assets/screenshots/postit-board-8.png" width="32.5%" alt="포스트잇 보드 슬라이드 8" />
+  <img src="./docs/assets/screenshots/postit-board-1.png" width="32.5%" alt="포스트잇 보드 슬라이드 1" />
+  <img src="./docs/assets/screenshots/postit-board-4.png" width="32.5%" alt="포스트잇 보드 슬라이드 4" />
+  <img src="./docs/assets/screenshots/postit-board-8.png" width="32.5%" alt="포스트잇 보드 슬라이드 8" />
 </p>
 
 > 파스텔 포스트잇과 손글씨로 구성했습니다. 브레인스토밍이나 워크숍에 잘 어울립니다.
@@ -398,42 +398,42 @@ https://github.com/airoasting/slide_library 저장소를 클론하고, AGENTS.md
 
 ## 6. 레트로·플레이풀·노스탤지어
 
-### [네온 픽셀 (Neon Pixel)](./templates/neon-pixel/)
+### [네온 픽셀 (Neon Pixel)](./docs/templates/neon-pixel/)
 
 <p>
-  <img src="./assets/screenshots/neon-pixel-1.png" width="32.5%" alt="네온 픽셀 슬라이드 1" />
-  <img src="./assets/screenshots/neon-pixel-5.png" width="32.5%" alt="네온 픽셀 슬라이드 5" />
-  <img src="./assets/screenshots/neon-pixel-6.png" width="32.5%" alt="네온 픽셀 슬라이드 6" />
+  <img src="./docs/assets/screenshots/neon-pixel-1.png" width="32.5%" alt="네온 픽셀 슬라이드 1" />
+  <img src="./docs/assets/screenshots/neon-pixel-5.png" width="32.5%" alt="네온 픽셀 슬라이드 5" />
+  <img src="./docs/assets/screenshots/neon-pixel-6.png" width="32.5%" alt="네온 픽셀 슬라이드 6" />
 </p>
 
 > 어두운 우주 배경 위에 네온 픽셀 아트를 얹었습니다. 게임 무드 발표에 잘 어울립니다.
 
-### [윈도우 95 (Windows 95)](./templates/windows-95/)
+### [윈도우 95 (Windows 95)](./docs/templates/windows-95/)
 
 <p>
-  <img src="./assets/screenshots/windows-95-1.png" width="32.5%" alt="윈도우 95 슬라이드 1" />
-  <img src="./assets/screenshots/windows-95-4.png" width="32.5%" alt="윈도우 95 슬라이드 4" />
-  <img src="./assets/screenshots/windows-95-8.png" width="32.5%" alt="윈도우 95 슬라이드 8" />
+  <img src="./docs/assets/screenshots/windows-95-1.png" width="32.5%" alt="윈도우 95 슬라이드 1" />
+  <img src="./docs/assets/screenshots/windows-95-4.png" width="32.5%" alt="윈도우 95 슬라이드 4" />
+  <img src="./docs/assets/screenshots/windows-95-8.png" width="32.5%" alt="윈도우 95 슬라이드 8" />
 </p>
 
 > 90년대 윈도우를 그대로 가져왔습니다. 회색 창과 픽셀 글꼴까지 완벽하게 복고를 살렸습니다.
 
-### [레트로 카세트 (Retro Cassette)](./templates/retro-cassette/)
+### [레트로 카세트 (Retro Cassette)](./docs/templates/retro-cassette/)
 
 <p>
-  <img src="./assets/screenshots/retro-cassette-1.png" width="32.5%" alt="레트로 카세트 슬라이드 1" />
-  <img src="./assets/screenshots/retro-cassette-3.png" width="32.5%" alt="레트로 카세트 슬라이드 3" />
-  <img src="./assets/screenshots/retro-cassette-4.png" width="32.5%" alt="레트로 카세트 슬라이드 4" />
+  <img src="./docs/assets/screenshots/retro-cassette-1.png" width="32.5%" alt="레트로 카세트 슬라이드 1" />
+  <img src="./docs/assets/screenshots/retro-cassette-3.png" width="32.5%" alt="레트로 카세트 슬라이드 3" />
+  <img src="./docs/assets/screenshots/retro-cassette-4.png" width="32.5%" alt="레트로 카세트 슬라이드 4" />
 </p>
 
 > 옛날 카세트 포장 무드를 가져왔습니다. 크림 종이에 무지개 리본을 더했습니다.
 
-### [꽃그림 파스텔 (Floral Pastel)](./templates/floral-pastel/)
+### [꽃그림 파스텔 (Floral Pastel)](./docs/templates/floral-pastel/)
 
 <p>
-  <img src="./assets/screenshots/floral-pastel-1.png" width="32.5%" alt="꽃그림 파스텔 슬라이드 1" />
-  <img src="./assets/screenshots/floral-pastel-4.png" width="32.5%" alt="꽃그림 파스텔 슬라이드 4" />
-  <img src="./assets/screenshots/floral-pastel-8.png" width="32.5%" alt="꽃그림 파스텔 슬라이드 8" />
+  <img src="./docs/assets/screenshots/floral-pastel-1.png" width="32.5%" alt="꽃그림 파스텔 슬라이드 1" />
+  <img src="./docs/assets/screenshots/floral-pastel-4.png" width="32.5%" alt="꽃그림 파스텔 슬라이드 4" />
+  <img src="./docs/assets/screenshots/floral-pastel-8.png" width="32.5%" alt="꽃그림 파스텔 슬라이드 8" />
 </p>
 
 > 꽃, 별, 무지개 손그림이 어우러진 파스텔 덱입니다. 교육이나 어린이 콘텐츠에 잘 맞습니다.

@@ -21,8 +21,8 @@ import { fileURLToPath, pathToFileURL } from 'node:url';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const REPO_ROOT = join(__dirname, '..');
-const TEMPLATES_DIR = join(REPO_ROOT, 'templates');
-const SHOTS_DIR = join(REPO_ROOT, 'assets', 'screenshots');
+const TEMPLATES_DIR = join(REPO_ROOT, 'docs', 'templates');
+const SHOTS_DIR = join(REPO_ROOT, 'docs', 'assets', 'screenshots');
 
 const MANIFEST = [
   { slug: 'mckinsey-navy',      shots: [1, 2, 3] },

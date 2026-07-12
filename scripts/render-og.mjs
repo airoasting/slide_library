@@ -9,8 +9,8 @@ import { fileURLToPath, pathToFileURL } from 'node:url';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const REPO_ROOT = join(__dirname, '..');
-const SRC = join(REPO_ROOT, 'assets', 'og-image.html');
-const OUT = join(REPO_ROOT, 'assets', 'og-image.png');
+const SRC = join(REPO_ROOT, 'docs', 'assets', 'og-image.html');
+const OUT = join(REPO_ROOT, 'docs', 'assets', 'og-image.png');
 
 const VIEWPORT = { width: 1200, height: 630 };
 const DPR = 2;
