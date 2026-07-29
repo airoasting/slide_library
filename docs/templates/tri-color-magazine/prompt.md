@@ -233,34 +233,34 @@
 ```html
 <section class="s-grid" data-screen-label="03 Principles">
   <div style="display:flex; justify-content:space-between; align-items:flex-end; margin-bottom: 24px;">
-    <h2>다섯 가지 원칙, <em>느슨하게 붙잡습니다.</em></h2>
+    <h2>다섯 가지 원칙, <em>헐겁게 쥡니다.</em></h2>
     <div class="mono" style="font-size:24px; letter-spacing:0.15em; text-transform:uppercase; color: var(--burgundy);">§ 03 · 원칙</div>
   </div>
   <div class="grid" style="grid-template-columns: repeat(5, 1fr);">
     <div class="card c1">
       <div class="num">/ 01</div>
-      <h4>천천히 바라보기</h4>
-      <p>두 호흡을 먼저 둡니다. 첫 결론은 두 번째 보기를 위해 비워 둡니다.</p>
+      <h4>천천히 바라봅니다</h4>
+      <p>충분히 들여다본 뒤에 손을 움직입니다. 첫인상은 처음 한 번이면 충분합니다.</p>
     </div>
     <div class="card c2">
       <div class="num">/ 02</div>
-      <h4>열린 주방</h4>
-      <p>과정을 공개합니다. 봉합선, 스케치, 굳어지기 전 반쯤 형성된 생각까지 모두 보여줍니다.</p>
+      <h4>스튜디오를 열어둡니다</h4>
+      <p>완성품만 내보이지 않습니다. 다듬다 만 스케치와 메모도 함께 펼칩니다.</p>
     </div>
     <div class="card c3">
       <div class="num">/ 03</div>
-      <h4>빌려온 빛</h4>
-      <p>관대하게 인용합니다. 최고의 아이디어는 늘 계보 위에 놓이고, 들어선 방의 이름을 밝힙니다.</p>
+      <h4>바깥의 아이디어를 빌립니다</h4>
+      <p>혼자 만든 작업은 없습니다. 빌려온 자리에는 빌려준 이의 이름을 적어둡니다.</p>
     </div>
     <div class="card c4">
       <div class="num">/ 04</div>
-      <h4>조용한 기본값</h4>
-      <p>절제를 기본 자세로 삼습니다. 필요한 순간에만 힘을 싣고, 그 외에는 부드러운 어깨로 섭니다.</p>
+      <h4>정적의 힘을 믿습니다</h4>
+      <p>필요할 때만 소리를 키웁니다. 평소에는 한 발 물러서서 듣습니다.</p>
     </div>
     <div class="card c5">
       <div class="num">/ 05</div>
-      <h4>더 적게, 더 정교하게</h4>
-      <p>더미를 줄입니다. 숙고한 세 개가 서두른 서른 개를 늘 이깁니다.</p>
+      <h4>적게, 더 정교하게</h4>
+      <p>오래 매만진 세 개가 급하게 만든 서른 개보다 멀리 갑니다. 양이 아니라 밀도를 택합니다.</p>
     </div>
   </div>
   <div class="footer">

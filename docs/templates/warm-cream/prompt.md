@@ -188,10 +188,10 @@
     <div class="left">
       <div class="ed-row">
         <div class="ed-badge caption">5</div>
-        <div class="ed-label caption">12월 · 주요 에디션</div>
+        <div class="ed-label caption">12월 · 주요 모임</div>
       </div>
-      <h2 class="ttl">비를 위한<br/>저녁.</h2>
-      <p class="lede">서점 위 개조된 인쇄실에서 긴 겨울 저녁을 보냅니다. 함께 나누는 로스트, 서두르지 않는 와인 리스트, 날씨가 받쳐주면 항구까지 걷는 한 번의 인터미션.</p>
+      <h2 class="ttl">비 오는 날,<br/>긴 저녁.</h2>
+      <p class="lede">서점 위 개조된 인쇄실에서 긴 겨울 저녁을 보냅니다. 로스트는 같이 나눠 먹고, 와인은 천천히. 날씨가 받쳐주면 중간에 항구까지 걷습니다.</p>
       <div class="stats-line">
         <span class="pill caption">11월 28일까지 신청</span>
         <span class="pill caption">12석 남음</span>
@@ -212,7 +212,7 @@
       </div>
       <div class="info-row">
         <div class="k caption">소요 시간</div>
-        <div class="v it">저녁 8시부터, 밤 깊이까지</div>
+        <div class="v it">저녁 8시부터, 밤 늦게까지</div>
       </div>
       <div class="info-row">
         <div class="k caption">좌석</div>

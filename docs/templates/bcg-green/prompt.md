@@ -226,7 +226,7 @@
         <div class="trend-num">01</div>
         <div class="trend-title">AI 네이티브 경쟁자의 부상</div>
         <div class="trend-rule"></div>
-        <div class="trend-body">인력 중심 운영 모델이 AI 기반 경쟁사에 비용 구조에서 압도당하고 있습니다. 진입장벽이 낮아지면서 후발 주자의 시장 침투가 빨라집니다.</div>
+        <div class="trend-body">인력 중심 운영 모델은 비용 구조에서 AI 기반 경쟁사에 크게 밀립니다. 진입장벽이 낮아지면서 후발 주자의 시장 침투가 빨라집니다.</div>
         <div class="trend-stat">3.2배</div>
         <div class="trend-stat-label">AI 네이티브 기업 시장 침투 속도</div>
       </div>
@@ -234,15 +234,15 @@
         <div class="trend-num">02</div>
         <div class="trend-title">고객 기대치의 급격한 상승</div>
         <div class="trend-rule"></div>
-        <div class="trend-body">B2B 고객 78%가 B2C 수준의 응답 경험을 요구합니다. 가격보다 경험 민감도가 구매 결정의 핵심 변수로 부상합니다.</div>
+        <div class="trend-body">B2B 고객 78%가 B2C 수준 경험을 요구합니다. 가격보다 경험 민감도가 구매 결정의 핵심 변수로 떠올랐습니다.</div>
         <div class="trend-stat">78%</div>
         <div class="trend-stat-label">B2C 수준 경험을 요구하는 B2B 고객</div>
       </div>
       <div class="trend-col">
         <div class="trend-num">03</div>
-        <div class="trend-title">자본 효율성의 재정의</div>
+        <div class="trend-title">자본 효율성 재정의</div>
         <div class="trend-rule"></div>
-        <div class="trend-body">금리 정상화 이후 성장만으로는 자본을 정당화하기 어렵습니다. ROIC 기반 자본 배분이 투자자 신뢰의 핵심 지표로 자리잡습니다.</div>
+        <div class="trend-body">금리 정상화 이후 성장만으로는 자본을 정당화하지 못합니다. ROIC 기반 자본 배분이 투자자 신뢰의 핵심 지표로 자리 잡았습니다.</div>
         <div class="trend-stat">14.2%</div>
         <div class="trend-stat-label">상위 사분위 기업 평균 ROIC</div>
       </div>

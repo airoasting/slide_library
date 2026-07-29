@@ -189,7 +189,7 @@ After (`.slide-7` 타임라인 레이아웃)
         <div class="timeline-step">
             <div class="step-node">2</div>
             <div class="step-title">정의</div>
-            <div class="step-desc">전략적인 포지셔닝과 핵심 내러티브 설계</div>
+            <div class="step-desc">전략적 포지셔닝과 핵심 내러티브 설계</div>
         </div>
         <div class="timeline-step">
             <div class="step-node filled">3</div>

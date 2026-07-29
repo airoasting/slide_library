@@ -203,13 +203,13 @@ After (`.slide-6` 3열 카드 레이아웃)
         <div class="column-card">
             <div class="card-icon">B</div>
             <div class="card-title">관계 강화</div>
-            <div class="card-text">파트너십 프로그램을 확대해 기존 고객 매출을 더 두텁게 키웁니다.</div>
+            <div class="card-text">파트너십 프로그램을 확대해 기존 고객 매출을 키웁니다.</div>
             <div class="card-stat">+45%</div>
         </div>
         <div class="column-card">
             <div class="card-icon">C</div>
             <div class="card-title">절차 최적화</div>
-            <div class="card-text">내부 절차를 간소화해 납기와 자원 배분을 빠르게 끌어올립니다.</div>
+            <div class="card-text">내부 절차를 간소화해 납기와 자원 배분을 개선합니다.</div>
             <div class="card-stat">3.2x</div>
         </div>
     </div>

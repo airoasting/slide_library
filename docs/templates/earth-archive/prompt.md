@@ -256,23 +256,23 @@
   </div>
   <div class="head">
     <h2>숫자로 본<br/><em>근거입니다.</em></h2>
-    <div class="sub">매 사이클 보고할 세 가지 수치입니다. 이 중 하나라도 움직이지 않으면 해당 시도는 끝냅니다.</div>
+    <div class="sub">사이클마다 보고할 세 가지 수치입니다. 이 중 하나라도 움직이지 않으면 그 시도는 거기서 멈춥니다.</div>
   </div>
   <div class="grid">
     <div class="stat s1">
       <div class="big">2.4<small>×</small></div>
       <h3>리텐션<br>배수</h3>
-      <p>직접 작성 환영 + 사람 답장 코호트 vs. 템플릿 대조군입니다. D90까지 유지됩니다.</p>
+      <p>사람이 쓴 환영과 사람의 답장을 함께 받은 코호트를 템플릿 대조군과 비교했습니다. 격차는 D90까지 유지됩니다.</p>
     </div>
     <div class="stat s2">
       <div class="big">$4.1<small>M</small></div>
       <h3>예상<br>유지 ARR</h3>
-      <p>현 분기 가입 코호트 기준, 다른 변수는 모두 고정해 모델링한 값입니다.</p>
+      <p>이번 분기 가입 코호트를 기준으로, 다른 변수는 모두 고정해 모델링한 값입니다.</p>
     </div>
     <div class="stat s3">
       <div class="big">72<small>HR</small></div>
       <h3>중요한<br>시간대</h3>
-      <p>첫 72시간 안 행동이 어떤 기능 지표보다 18개월 리텐션을 더 정확히 예측합니다.</p>
+      <p>첫 72시간의 행동이 어떤 기능 지표보다도 18개월 리텐션을 정확히 예측합니다.</p>
     </div>
   </div>
   <div class="footer"><span>North &amp; Partners</span><span>09 / 11</span></div>

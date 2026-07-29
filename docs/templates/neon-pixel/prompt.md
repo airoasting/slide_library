@@ -221,7 +221,7 @@
       <div class="feature-card">
         <div class="feature-icon circle"></div>
         <h3>레트로 분위기</h3>
-        <p>스캔라인, CRT 비네트, 별빛 필드, 노이즈 레이어로 몰입감을 극대화합니다.</p>
+        <p>스캔라인, CRT 비네트, 별빛 필드, 노이즈 레이어로 몰입감을 높입니다.</p>
       </div>
     </div>
   </div>

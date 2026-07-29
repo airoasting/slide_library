@@ -221,13 +221,13 @@
     <div class="fin-cell">
       <div class="fc-num">4.2x</div>
       <div class="fc-label">LTV / CAC 비율</div>
-      <div class="fc-body">고객 생애가치 $48K, 전 채널 혼합 획득 비용 $11.4K입니다.</div>
+      <div class="fc-body">고객 생애가치는 $48K, 전 채널 혼합 획득 비용은 $11.4K입니다.</div>
       <div class="fc-micro">엔터프라이즈 세그먼트는 6.8x입니다.</div>
     </div>
     <div class="fin-cell">
       <div class="fc-num">8개월</div>
       <div class="fc-label">현금 런웨이</div>
-      <div class="fc-body">보유 현금 $8.2M, 월간 소진 $980K, 추가 조달 없이 수익화 시점까지 도달합니다.</div>
+      <div class="fc-body">보유 현금은 $8.2M이고 월간 소진은 $980K로, 추가 조달 없이 수익화 시점까지 갈 수 있습니다.</div>
       <div class="fc-micro">Series A는 2025년 3월에 마감했습니다.</div>
     </div>
     <div class="fin-cell">

@@ -233,7 +233,7 @@
       <div class="num-wrap"><div class="num">2.7×</div></div>
       <div>
         <div class="lbl">처리량 배수</div>
-        <div class="desc">분당 처리 트랜잭션이 작년 동기 대비 2.7배로 늘었습니다. 인프라 비용 증가폭은 이를 따라잡지 못했습니다.</div>
+        <div class="desc">분당 처리 트랜잭션이 작년 동기 대비 2.7배로 늘었습니다. 인프라 비용은 그만큼 늘지 않았습니다.</div>
       </div>
     </div>
     <div class="cell c3">

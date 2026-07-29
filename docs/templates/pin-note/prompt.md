@@ -212,21 +212,21 @@
       <svg class="pin" viewBox="0 0 360 110"><use href="#pin"/></svg>
       <span class="num">규칙 · 01</span>
       <h3>진짜 문장을<br/>씁니다.</h3>
-      <p>고객이 읽지 않을 이메일이라면 그건 일이 아닙니다. 쉬운 말로 쓰고, 사람이 서명하고, 화요일에 보냅니다.</p>
+      <p>고객이 읽지 않을 이메일이라면 의미가 없습니다. 쉬운 말로 쓰고, 사람이 서명하고, 화요일에 보냅니다.</p>
       <div class="scribble">먼저 <span class="underline">손으로</span> 써봅니다.</div>
     </div>
     <div class="card alt">
       <svg class="pin" viewBox="0 0 360 110"><use href="#pin"/></svg>
       <span class="num">규칙 · 02</span>
       <h3>두 번째 기회를<br/>잡습니다.</h3>
-      <p>첫 72시간의 접점 1건은 3주차 접점 4건의 무게를 지닙니다. 그만큼 투자합니다.</p>
-      <div class="scribble">자동응답은 절대 불가합니다.</div>
+      <p>첫 72시간의 접점 1건이 3주차 접점 4건만큼 무겁습니다. 그만큼 투자합니다.</p>
+      <div class="scribble">자동응답은 절대 안 씁니다.</div>
     </div>
     <div class="card alt2">
       <svg class="pin" viewBox="0 0 360 130"><use href="#pin-open"/></svg>
       <span class="num">규칙 · 03</span>
       <h3>손글씨를<br/>지킵니다.</h3>
-      <p>시스템은 키울 수 있지만, 상대의 목소리는 지난주에 누구에게 편지를 썼는지 기억할 만큼 작게 둡니다.</p>
+      <p>시스템은 얼마든지 키워도, 고객을 직접 상대하는 사람 수는 지난주에 누구에게 편지를 보냈는지 기억할 만큼만 둡니다.</p>
       <div class="scribble">최대 200명입니다.</div>
     </div>
   </div>

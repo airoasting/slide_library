@@ -250,7 +250,7 @@
         </div>
         <div class="log-row">
           <span class="log-dt">04 / 21</span>
-          <span class="log-dd">엔터프라이즈 전담 영업 조직을 출범했습니다. <em>신규 로고 12건 동시 진행.</em></span>
+          <span class="log-dd">엔터프라이즈 전담 영업 조직이 출범했습니다. <em>신규 로고 12건 동시 진행.</em></span>
         </div>
         <div class="log-row">
           <span class="log-dt">05 / 09</span>
@@ -295,7 +295,7 @@
   </div>
 
   <div class="editorial-analysis" data-anim="fade-in" data-delay="4">
-    네 지표 모두 가격 정책 변경이 트리거가 됐습니다. 하반기에는 영업 조직 확장과 코파일럿 채택률이 기여 주체로 바뀝니다.
+    네 지표 모두 가격 정책 변경이 출발점이었습니다. 하반기에는 영업 조직 확장과 코파일럿 채택률이 그 자리를 대신합니다.
   </div>
 
   <div class="slide-foot">

@@ -203,14 +203,14 @@
   <div class="body">
     <h2 class="action-title">AI 도입 1년 만에 활용 사례가 4배로 늘며 본격 확산 단계에 진입했습니다</h2>
     <div class="action-rule"></div>
-    <p class="action-sub">전사 도입률이 두 배 이상 뛰었고, 사례가 다양해지면서 비용 절감도 실측되기 시작했습니다.</p>
+    <p class="action-sub">전사 도입률이 두 배 이상 뛰었고, 사례가 다양해지면서 비용 절감도 숫자로 잡히기 시작했습니다.</p>
 
     <div class="columns">
       <div class="col">
         <div class="col-num">01</div>
         <div class="col-title">전사 도입률</div>
         <div class="col-rule"></div>
-        <p class="col-body">전 임직원 도입률이 1년 만에 25%에서 68%로 뛰었습니다. 신규 입사자 온보딩 단계에서 AI 도구를 기본값으로 두면서 자연 확산이 가속됐습니다.</p>
+        <p class="col-body">전 임직원 도입률이 1년 만에 25%에서 68%로 뛰었습니다. 신규 입사자 온보딩 단계에서 AI 도구를 기본값으로 두면서 저절로 빠르게 퍼졌습니다.</p>
         <div class="col-stat">
           <div class="col-stat-value">68%</div>
           <div class="col-stat-label">전사 도입률 (+43%p YoY)</div>

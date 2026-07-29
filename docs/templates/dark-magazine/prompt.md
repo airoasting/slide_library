@@ -253,7 +253,7 @@
     <div class="stats-grid" data-anim="fade-up" data-delay="1">
       <div class="stat-card">
         <div class="stat-value" data-anim="scale-in" data-delay="1">68%</div>
-        <div class="stat-label body">전사 임직원 도입률, 1년 만에 25%에서 68%로 올라섰습니다</div>
+        <div class="stat-label body">전사 임직원 도입률이 1년 만에 25%에서 68%로 올라섰습니다</div>
         <div class="stat-note">사내 활용 로그 · 2026년 4월</div>
       </div>
       <div class="stat-card">
@@ -263,7 +263,7 @@
       </div>
       <div class="stat-card">
         <div class="stat-value" data-anim="scale-in" data-delay="3">8억 원</div>
-        <div class="stat-label body">보고·번역·코드 리뷰 자동화로 연 8억 원의 비용 절감을 실측했습니다</div>
+        <div class="stat-label body">보고·번역·코드 리뷰를 자동화해 연 8억 원을 아꼈습니다</div>
         <div class="stat-note">재무팀 비용 분석 · 2026년 4월</div>
       </div>
     </div>

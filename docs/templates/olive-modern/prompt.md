@@ -197,13 +197,13 @@
   </header>
   <div class="slide-body">
     <h2 class="h2" style="color: var(--c-fg); margin-bottom: var(--gap-lg)">
-      [제품명]을 정의하는 세 숫자입니다.
+      [제품 카테고리]를 정의하는 숫자입니다.
     </h2>
     <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 0">
       <div class="mat-stat">
         <div class="mat-stat-val">4.7<em>k</em></div>
         <div class="mat-stat-label">
-          출시 90일, 12개국 누적 판매 수량입니다.
+          출시 후 90일, 12개국 판매 수량입니다.
         </div>
       </div>
       <div class="mat-stat">
