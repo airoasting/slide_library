@@ -1,6 +1,6 @@
 {
   "name": "slide-library",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "slide library: a library of reusable HTML slide templates designed so that any coding agent can pick the right one and produce a beautiful deck on the user's behalf, automatically. Created and maintained by AI Roasting.",
   "main": "index.js",
   "scripts": {
